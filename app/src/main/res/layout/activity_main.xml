@@ -24,8 +24,7 @@
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:layout_weight="30"
-            android:background="@color/white"
-            android:src="@drawable/home"></ImageButton>
+            android:background="@drawable/homebutton"></ImageButton>
 
         <ImageButton
             android:id="@+id/Calendar"
@@ -34,8 +33,7 @@
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:layout_weight="30"
-            android:background="@color/white"
-            android:src="@drawable/calendar"></ImageButton>
+            android:background="@drawable/calendarbutton"></ImageButton>
 
         <ImageButton
             android:id="@+id/Message"
@@ -44,8 +42,7 @@
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:layout_weight="30"
-            android:background="@color/white"
-            android:src="@drawable/message"></ImageButton>
+            android:background="@drawable/messagebutton"></ImageButton>
 
         <ImageButton
             android:id="@+id/Notification"
@@ -55,7 +52,7 @@
             android:layout_marginRight="15dp"
             android:layout_weight="30"
             android:background="@color/white"
-            android:src="@drawable/notification"></ImageButton>
+            android:src="@drawable/notificationbutton"></ImageButton>
 
         <ImageButton
             android:id="@+id/Group"
@@ -65,7 +62,7 @@
             android:layout_marginRight="15dp"
             android:layout_weight="30"
             android:background="@color/white"
-            android:src="@drawable/group"></ImageButton>
+            android:src="@drawable/groupbutton"></ImageButton>
     </LinearLayout>
 
 
